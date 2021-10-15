@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+.toolbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(238, 228, 278);
+    color: rgb(12, 11, 11);
+    font-weight: 600;
+  }
+  .project{
+    left: 10px;
+ 
+    height: 40px;
+    
+    /* font-weight: 900px; */
+    padding-left: 15px;
+    padding-top: 10px;
+
+
+  }
+    .content{
+    width: 60px;
+    height: 25px;
+    position: 25px; 
+    display: flex;
+    text-justify: auto;
+    /* margin-right: 10px; */
+    margin-left: 10px;
+    /* margin: 18px auto 18px; */
+
+  }
